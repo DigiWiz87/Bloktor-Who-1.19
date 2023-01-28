@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_i_sonic_screwdriver ": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 5,
+			"bones": {
+				"bone": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"5.0": {
+							"vector": [0, 360, 0]
+						}
+					}
+				},
+				"bone2": {
+					"relative_to": {
+						"rotation": "entity"
+					},
+					"rotation": [0, 0, 0.01]
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "mk_i_active"
+				}
+			}
+		}
+	}
+}

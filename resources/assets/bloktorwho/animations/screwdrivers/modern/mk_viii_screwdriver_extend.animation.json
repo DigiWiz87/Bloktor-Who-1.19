@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_viii_screwdriver_extend": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 3.5,
+			"bones": {
+				"group": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 3, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.8333": {
+					"effect": "music"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

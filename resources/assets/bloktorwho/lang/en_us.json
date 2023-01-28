@@ -1,0 +1,16 @@
+{
+  "item.bloktorwho.mk_i_sonic_screwdriver" : "Mk I Sonic Screwdriver",
+  "item.bloktorwho.mk_ii_sonic_screwdriver" : "Mk II Sonic Screwdriver",
+  "item.bloktorwho.mk_iii_sonic_screwdriver" : "Mk III Sonic Screwdriver",
+  "item.bloktorwho.mk_iv_sonic_screwdriver" : "Mk IV Sonic Screwdriver",
+  "item.bloktorwho.mk_v_sonic_screwdriver" : "Mk V Sonic Screwdriver",
+  "item.bloktorwho.mk_vi_sonic_screwdriver" : "Mk VI Sonic Screwdriver",
+  "item.bloktorwho.mk_vii_sonic_screwdriver" : "Mk VII Sonic Screwdriver",
+  "item.bloktorwho.mk_viii_sonic_screwdriver" : "Mk VIII Sonic Screwdriver",
+  "item.bloktorwho.mk_ix_sonic_screwdriver" : "Mk IX Sonic Screwdriver",
+  "item.bloktorwho.mk_x_sonic_screwdriver": "Mk X Sonic Screwdriver",
+
+  "block.bloktorwho.zeiton_7": "Zeiton 7",
+
+  "itemGroup.bloktorwho": "Sonic Devices"
+}

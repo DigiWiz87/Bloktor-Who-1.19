@@ -1,0 +1,58 @@
+{
+  "sonic_active": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "bloktorwho:sonic_active",
+        "stream": true
+      }
+    ]
+  },
+
+  "mk_vi_active2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "bloktorwho:mk_vi_active2",
+        "stream": true
+      }
+    ]
+  },
+
+  "mk_i_active": {
+    "sounds": [
+      {
+        "name": "bloktorwho:mk_i_active",
+        "stream": true
+      }
+    ]
+  },
+
+  "mk_ii_active": {
+    "sounds": [
+      {
+        "name": "bloktorwho:mk_ii_active",
+        "stream": true
+      }
+    ]
+  },
+
+  "mk_ix_active": {
+    "sounds": [
+      {
+        "name": "bloktorwho:mk_ix_active",
+        "stream": true
+      }
+    ]
+  },
+
+  "mk_x_active": {
+    "sounds": [
+      {
+        "name": "bloktorwho:mk_x_active",
+        "stream": true
+      }
+    ]
+  }
+
+}

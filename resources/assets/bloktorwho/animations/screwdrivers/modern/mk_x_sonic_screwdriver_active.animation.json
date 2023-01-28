@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_x_sonic_screwdriver_active": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 3.54167,
+			"bones": {
+				"emitter": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"3.5417": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "music"
+				}
+			}
+		}
+	}
+}

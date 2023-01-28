@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_vii_screwdriver_active": {
+			"animation_length": 5,
+			"bones": {
+				"emitter": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, -2, 0]
+						},
+						"3.0": {
+							"vector": [0, -2, 0]
+						},
+						"4.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.625": {
+					"effect": "music"
+				}
+			}
+		}
+	}
+}

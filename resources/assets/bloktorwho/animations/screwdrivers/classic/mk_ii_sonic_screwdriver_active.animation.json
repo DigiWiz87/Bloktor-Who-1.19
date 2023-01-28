@@ -1,0 +1,38 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_ii_screwdriver.active": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 4,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -1, 0],
+							"easing": "linear"
+						},
+						"3.5": {
+							"vector": [0, -1, 0],
+							"easing": "linear"
+						},
+						"4.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.5": {
+					"effect": "music"
+				},
+				"1.2083": {
+					"effect": "music"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

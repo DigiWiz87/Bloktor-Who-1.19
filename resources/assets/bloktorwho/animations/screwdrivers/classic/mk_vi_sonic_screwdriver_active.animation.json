@@ -1,0 +1,48 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mk_vi_screwdriver_active": {
+			"animation_length": 4,
+			"bones": {
+				"moveable_piece_left": {
+					"rotation": {
+						"0.5833": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, 30]
+						}
+					}
+				},
+				"moveable_piece2_right": {
+					"rotation": {
+						"0.5833": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, -30]
+						}
+					}
+				},
+				"button": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0.2, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.5833": {
+					"effect": "mk_vi_active1"
+				}
+			}
+		}
+	}
+}

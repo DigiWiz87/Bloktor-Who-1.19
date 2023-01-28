@@ -1,0 +1,117 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    128,
+    128
+    ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        -0.5,
+        -2.5,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -2.5,
+        1
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -18.35,
+        14.74,
+        4.86
+      ],
+      "translation": [
+        0,
+        -4.25,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -11.42,
+        10.51,
+        2.08
+      ],
+      "translation": [
+        1.75,
+        -4.5,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "ground": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        1,
+        1,
+        -8.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -29.67,
+        36.29,
+        43.95
+      ],
+      "translation": [
+        3,
+        -7.75,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        -40.75
+      ],
+      "translation": [
+        -6.5,
+        -7.75,
+        -1.25
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pulling": 0
+      },
+      "model": "bloktorwho:item/mk_viii_sonic_screwdriver"
+    }
+  ]
+}
